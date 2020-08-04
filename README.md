@@ -1,5 +1,5 @@
-# hotel-management-system-pratice
- A Pratice of Spring Cloud
+# hotel-management-system-practice
+ A Practice of Spring Cloud
  
 ### Day 1
 * Spring Cloud Demo
