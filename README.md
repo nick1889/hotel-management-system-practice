@@ -2,6 +2,6 @@
  A Practice of Spring Cloud
  
 ### Day 1
-* Spring Cloud Demo
+* Spring Cloud Demo: https://github.com/nick1889/hotel-management-system-practice/tree/master/day1-demo-parent
 * Git
-* Vue
+* Vue: https://github.com/mynameisly/HotelManagement
